@@ -15,8 +15,17 @@ Nesse projeto todo-list tem a funcionalidade de você adicionar, excluir, seleci
 
 - Demonstração do Resultado Final. 
   
-![sim](https://user-images.githubusercontent.com/88461178/181095191-77be8ca4-d09d-42d8-9ba1-b07e9fc98379.JPG)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/88461178/181095191-77be8ca4-d09d-42d8-9ba1-b07e9fc98379.JPG"/>
+
+</div>
 
 
+<h3 align="center"> Autora: Artemiza Rocha</h3>   
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </div>
 
+<h4 align="center">Desenvolvido com 💜 </h4>
