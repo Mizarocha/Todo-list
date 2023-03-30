@@ -1,4 +1,4 @@
-# Criando um Todo-List com ReactJS
+<h1 align="center"> Criando um Todo-List com ReactJS</h1>
 
 Nesse projeto todo-list tem a funcionalidade de você adicionar, excluir, selecionar e editar as tarefas. 
 
